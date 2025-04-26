@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Code",
+        "request": "launch",
+        "mainClass": "Code",
+        "projectName": "Form_2b85c1d6"
+      },
+      {
+        "name": "C/C++ Runner: Debug Session",
+        "type": "cppdbg",
+        "request": "launch",
+        "args": [],
+        "stopAtEntry": false,
+        "externalConsole": true,
+        "cwd": "c:/Users/welcome/OneDrive/Desktop/Form",
+        "program": "c:/Users/welcome/OneDrive/Desktop/Form/build/Debug/outDebug",
+        "MIMode": "gdb",
+        "miDebuggerPath": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
+    ]
+  }
